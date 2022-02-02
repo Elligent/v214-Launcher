@@ -1,0 +1,24 @@
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\bin\Release\Master.exe.config
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\bin\Release\Master.exe
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\bin\Release\Master.pdb
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\obj\Release\v206 Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\obj\Release\SwordieLauncher.Form1.resources
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\obj\Release\SwordieLauncher.Form2.resources
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\obj\Release\Master.Properties.Resources.resources
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\obj\Release\v206 Launcher.csproj.GenerateResource.cache
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\obj\Release\v206 Launcher.csproj.CoreCompileInputs.cache
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\obj\Release\Master.exe
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\obj\Release\Master.pdb
+C:\Users\fanta\Downloads\v206_launcher\SwordieLauncher\obj\Release\v206 Launcher.csproj.AssemblyReference.cache
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\bin\Release\Master.exe.config
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\bin\Release\Master.exe
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\bin\Release\Master.pdb
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\obj\Release\v206 Launcher.csproj.AssemblyReference.cache
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\obj\Release\v206 Launcher.csproj.SuggestedBindingRedirects.cache
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\obj\Release\SwordieLauncher.Form1.resources
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\obj\Release\SwordieLauncher.Form2.resources
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\obj\Release\Master.Properties.Resources.resources
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\obj\Release\v206 Launcher.csproj.GenerateResource.cache
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\obj\Release\v206 Launcher.csproj.CoreCompileInputs.cache
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\obj\Release\Master.exe
+D:\MapleStory Server Emulation\v214\v206_launcher\SwordieLauncher\obj\Release\Master.pdb

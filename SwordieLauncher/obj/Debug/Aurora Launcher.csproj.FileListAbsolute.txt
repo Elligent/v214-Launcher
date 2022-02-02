@@ -1,0 +1,11 @@
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\obj\Debug\Aurora Launcher.csproj.AssemblyReference.cache
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\obj\Debug\SwordieLauncher.Form1.resources
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\obj\Debug\SwordieLauncher.Form2.resources
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\obj\Debug\Aurora Launcher.csproj.GenerateResource.cache
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\obj\Debug\Aurora Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\bin\Debug\Master.exe.config
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\bin\Debug\Master.exe
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\bin\Debug\Master.pdb
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\obj\Debug\Master.Properties.Resources.resources
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\obj\Debug\Master.exe
+C:\Users\Poke\Downloads\launcher\AuroraLauncher-v207-master\SwordieLauncher\obj\Debug\Master.pdb

@@ -1,0 +1,12 @@
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\bin\Release\Master.exe.config
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\bin\Release\Master.exe
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\bin\Release\Master.pdb
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\obj\Release\MasterMS Launcher.csproj.AssemblyReference.cache
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\obj\Release\MasterMS Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\obj\Release\SwordieLauncher.Form1.resources
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\obj\Release\SwordieLauncher.Form2.resources
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\obj\Release\Master.Properties.Resources.resources
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\obj\Release\MasterMS Launcher.csproj.GenerateResource.cache
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\obj\Release\MasterMS Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\obj\Release\Master.exe
+C:\Users\Poki\Downloads\MasterMS_Launcher\SwordieLauncher\obj\Release\Master.pdb
